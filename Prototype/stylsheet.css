@@ -1,0 +1,123 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: #4b4f56;
+	background-image: url(images/background.png);
+	height: 900px;
+  	background-position: center;
+  	background-repeat: no-repeat;
+  	background-size: cover;
+}
+
+#navBar{
+    width: 99.8%;
+    height: 46px;
+    border: 2px solid white;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 218.7px;
+  text-decoration: none;
+  font-family: sans-serif;
+}
+
+li a:hover:not(.active) {
+  background-color: #111;
+}
+
+.active {
+  background-color: rgb(156, 6, 81);
+}
+
+#container {
+    margin: auto;
+    margin-top: 50px;
+    width: 600px;
+    height: 850px;
+    border: 1px solid white;
+    background-color:rgb(143, 149, 180, 0.4);
+}
+
+h4 {
+    font-family: sans-serif;
+    color: black;
+    text-align: center;
+}
+
+.homeText {
+    font-family: sans-serif;
+    color: black;
+    text-align: center;
+}
+
+hr {
+    color: white;
+}
+
+#boxcat {
+    display: block;
+    margin: auto;
+}
+
+.container_boxes {
+    margin: auto;
+    margin-top: 50px;
+    width: 1000px;
+    height: 850px;
+    border: 1px solid white;
+    background-color:rgb(143, 149, 180, 0.4);
+
+}
+
+#normalBox{
+    width: 250px;
+    height: 200px;
+    display: block;
+    margin: auto;
+}
+
+.catGif {
+    display: block;
+    margin-top: 18px;
+    margin-left: 35%;
+}
+
+.mouse {
+    display: block;
+    margin: auto;
+}
+
+.treat1 {
+    width: 300px;
+    height: 400px;
+}
+
+.treat2 {
+    width: 300px;
+    height: 250px;
+}
+
+.treat3 {
+    width: 300px;
+    height: 250px;
+}
+
+.treat4 {
+    width: 300px;
+    height: 250px;
+}
