@@ -1,3 +1,3 @@
 # School
  School opdrachten
-Klik hier! ->  - [Prototype](https://kyka-mol.github.io/School/Prototype)
+Klik hier! ->  - [Prototype](https://kyka-mol.github.io/Prototype)
